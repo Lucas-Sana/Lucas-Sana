@@ -5,7 +5,7 @@
 </div>
 <h1 align="center">Hey there 👋</h1>
 <h3 align="left">👩‍💻  About Me</h3>
-<h5 align="left">Hi, I'm Lucas H. Silva<br>🔭 Currently working on back-end and DevOps projects<br>📫 Contact me at: lucashs.work@gmail.com<br><br><a href="https://lucashsilvaresume.web.app" target="_blank">https://lucashsilvaresume.web.app</a></h5>
+<h5 align="left">Hi, I'm Lucas H. Silva<br>🔭 Currently working on back-end and DevOps projects<br>📫 Contact me at: lucashs.work@gmail.com<br><br><a 
 <h3 align="left">🛠 Languages and Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
