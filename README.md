@@ -7,9 +7,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/lucashs-work/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://www.youtube.com/channel/UChynepRuZrknHfN-nNmQZFA" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-  <a href="mailto:lucashs.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:lucashs.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"  /></a>
 </div>
-
 
 ###
 
@@ -21,7 +20,7 @@
 
 ###
 
-<h5 align="left">Olá eu sou o Lucas H. Silva<br>🔭 Atualmente trabalhando com projetos de back-end<br>🌱 Estudando Python, SQL.<br>📫 Contate-me no e-mail: lucashs.work@gmail.com<br><br>https://lucashsilvaresume.web.app</h5>
+<h5 align="left">Olá eu sou o Lucas H. Silva<br>🔭 Atualmente trabalhando com projetos de back-end<br>🌱 Estudando Python, SQL.<br>📫 Contate-me no e-mail: lucashs.work@gmail.com<br><br><a href="https://lucashsilvaresume.web.app" target="_blank">https://lucashsilvaresume.web.app</a></h5>
 
 ###
 
