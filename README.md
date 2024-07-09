@@ -45,8 +45,6 @@
     <i class="devicon-grafana-original" style="font-size: 40px;"></i>
     <img width="12" />
     <i class="devicon-sonarqube-plain" style="font-size: 40px;"></i>
-    <img width="12" />
-    <i class="devicon-laravel-plain" style="font-size: 40px;"></i>
   </div>
 
   <h3 align="left">🔥   My Stats :</h3>
